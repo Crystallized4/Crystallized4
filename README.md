@@ -1,16 +1,15 @@
 <div align="center">
+  <p><img alt="" height="400" width="400" src="https://i.imgur.com/yEP4a8m.gif" /></p>
 <a href="https://flowergame.net/view/1144931">
   <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" />
 </a>
 <p>❅ Hush . 21 ❅<br>
-  <img alt="" height="64" width="57" src="https://i.imgur.com/RotTrfQ.png" /></p>
-
-<p>Hello. Before you interact,<br>
+  <img alt="" height="64" width="57" src="https://i.imgur.com/RotTrfQ.png" /><br>
+Hello. Before you interact,<br>
 please know...</p>
 
-<p>. ⊹ ❅ ⊹ .</p>
-
-<p>❆ I almost always have ❆<br>
+<p>. ⊹ ❅ ⊹ .<br>
+❆ I almost always have ❆<br>
 global messages hidden.</p>
 
 <p>❅ You don't have to feel afraid to sit ❅<br>
@@ -36,7 +35,7 @@ me a little happy.</p>
   <img alt="Visit my Saintpaulia in Flowergame!" src="https://img.flowergame.net/1143997.png" /></a>
 
 <p>🌈🌿It's spring!🌼☀️<br>
-¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯<br>
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯<br>
 <a href="https://flowergame.net/view/1144370">
   <img alt="Visit my Rose in Flowergame!" src="https://img.flowergame.net/1144370.png" /></a>
 <a href="https://flowergame.net/view/1143548">
@@ -54,38 +53,28 @@ me a little happy.</p>
   <img alt="Visit my Marigold in Flowergame!" src="https://img.flowergame.net/1145268.png" /></a>
 <a href="https://flowergame.net/view/1147033">
   <img alt="Visit my Lucky clover in Flowergame!" src="https://img.flowergame.net/1147033.png" /></a><br>
-🍀🌷¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯🌷🍀</p>
+🍀🌷¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯🌷🍀</p>
 
 <p>✨<img alt="" height="32" width="58" src="https://i.imgur.com/zsD0bH7.gif" />✨</p>
 
 <p>
   💜
   <a href="https://flowergame.net/view/1145268">
-    <img alt="Visit my Marigold in Flowergame!" src="https://img.flowergame.net/1145268.png" />
-  </a>
+    <img alt="Visit my Marigold in Flowergame!" src="https://img.flowergame.net/1145268.png" /></a>
   <img alt="" height="148" width="93" src="https://i.imgur.com/JzvM80e.png" />
   <a href="https://flowergame.net/view/1145268">
-    <img alt="Visit my Marigold in Flowergame!" src="https://img.flowergame.net/1145268.png" />
-  </a>
+    <img alt="Visit my Marigold in Flowergame!" src="https://img.flowergame.net/1145268.png" /></a>
   💜
-</p>
-
+<br>
 <img alt="Visit my Lucky clover in Flowergame!" height="50" width="50" src="https://img.flowergame.net/1147044.png" />
 🌻🏆🌻
 <img alt="Visit my Lucky clover in Flowergame!" src="https://img.flowergame.net/1147044.png" />
-
-<p>¯¯¯¯¯¯</p>
-
-<p>‎‎. ⊹ <a href="https://fractalized8.straw.page/">Fractalized</a> ⊹ .‎</p>
-
-<p>(GL and OI manga and manhwa<br>
-recommendations inside)</p>
-
-<a href="https://docs.google.com/document/d/1sI7mzOVvMf5NeTwVcJAPuXdI1Gs1Jjm8sC72Sx1s2O8/edit?usp=sharing">My Picrew masterlist</a>
-
 <br>
-
-<a href="https://en.pronouns.page/@Hushsound">Pronouns</a>
+¯ ¯ ¯ ¯ ¯ ¯</p>
+Pages
+<p><b>Crystallized4</b> is my kinlist, and<br>
+<b>Fractalized8</b> is a little about me, with GL and OI manga<br>
+and manhwa recommendations inside.</p>
 
 <p>. ⊹ ❅ ⊹ .</p>
 
