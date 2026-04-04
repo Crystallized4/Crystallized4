@@ -4,8 +4,9 @@
 </a></p>
   <p><img alt="" height="300" width="300" src="https://i.imgur.com/yEP4a8m.gif" /></p>
     <img alt="" height="64" width="57" src="https://i.imgur.com/RotTrfQ.png" />
-<p>❅ Hush . 21 ❅<br>
-Hello. Before you interact,<br>
+<p>❅ Hush . 21 ❅</p>
+  
+<p>Hello. Before you interact,<br>
 please know...</p>
 
 <p>. ⊹ ❅ ⊹ .<br>
