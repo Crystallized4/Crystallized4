@@ -83,8 +83,8 @@ GL and OI recommendations inside.</p>
   <img alt="Visit my Cornflower in Flowergame!" src="https://img.flowergame.net/1143944.png" />
 </a></p>
 
-<p>. ⊹ ❅ ⊹ .</p>
-
+<p>. ⊹ ❅ ⊹ .
+<br>
 <img alt="" src="https://64.media.tumblr.com/55d3e01d673c5e902f9dda9b17016a0e/tumblr_prq8g0HiNF1xzybrpo6_100.gifv" />
 <img alt="" src="https://64.media.tumblr.com/5bda3f5cd2a20009ddd3a7173fcf3b61/tumblr_prq8g0HiNF1xzybrpo8_100.png" />
 <img alt="" src="https://64.media.tumblr.com/b92886d922d1631e6195a3825fadcc60/tumblr_prq8g0HiNF1xzybrpo5_100.png" />
@@ -95,8 +95,8 @@ GL and OI recommendations inside.</p>
 <img alt="" src="https://64.media.tumblr.com/884ad65cabd98b2d38c8d8ded0b3b3d1/tumblr_prgksvvLB81xzybrpo3_100.png" />
 <img alt="" src="https://64.media.tumblr.com/77eb02abfa86921f580015af630d86f1/tumblr_prq8g0HiNF1xzybrpo4_100.png" />
 <img alt="" src="https://64.media.tumblr.com/f888c616d7c24473b22b5c2902b09e9c/tumblr_psood4cdAm1xzybrpo7_100.png" />
-
-<p>˙⊹ ❅ ⊹      ˙</p>
+<br>
+˙⊹ ❅ ⊹      ˙</p>
 <br>
 <p><img alt="" height="207" width="207" src="https://i.imgur.com/vdXinms.png" /><br>
 <a href="https://flowergame.net/view/1149722">
