@@ -73,7 +73,7 @@ me a little happy.</p>
 <br>
 ¯ ¯ ¯ ¯ ¯ ¯</p>
 Pages
-<p><b>Crystallized4</b> is my kinlist, and<br>
+<p><b>Crystallized4</b> is for my kins, and<br>
 <b>Fractalized8</b> is a little about me, with<br>
 GL and OI recommendations inside.</p>
 <p></p><a href="https://docs.google.com/document/d/1sI7mzOVvMf5NeTwVcJAPuXdI1Gs1Jjm8sC72Sx1s2O8/edit?tab=t.0">This</a> is an organized list of<br>
