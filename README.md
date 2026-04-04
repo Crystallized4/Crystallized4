@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img alt="" height="400" width="400" src="https://i.imgur.com/yEP4a8m.gif" /></p>
+  <p><img alt="" height="300" width="300" src="https://i.imgur.com/yEP4a8m.gif" /></p>
 <a href="https://flowergame.net/view/1144931">
   <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" />
 </a>
@@ -53,15 +53,14 @@ me a little happy.</p>
   <img alt="Visit my Marigold in Flowergame!" src="https://img.flowergame.net/1145268.png" /></a>
 <a href="https://flowergame.net/view/1147033">
   <img alt="Visit my Lucky clover in Flowergame!" src="https://img.flowergame.net/1147033.png" /></a><br>
-🍀🌷¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯🌷🍀</p>
-
-<p>✨<img alt="" height="32" width="58" src="https://i.imgur.com/zsD0bH7.gif" />✨</p>
+🌷🌻 ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ 🌻🌷<br>
+✨<img alt="" height="32" width="58" src="https://i.imgur.com/zsD0bH7.gif" />✨</p>
 
 <p>
   💜
   <a href="https://flowergame.net/view/1145268">
     <img alt="Visit my Marigold in Flowergame!" src="https://img.flowergame.net/1145268.png" /></a>
-  <img alt="" height="148" width="93" src="https://i.imgur.com/JzvM80e.png" />
+  </a><span>　</span><a><img alt="" height="148" width="93" src="https://i.imgur.com/JzvM80e.png" /></a><span>　</span><a>
   <a href="https://flowergame.net/view/1145268">
     <img alt="Visit my Marigold in Flowergame!" src="https://img.flowergame.net/1145268.png" /></a>
   💜
@@ -73,33 +72,33 @@ me a little happy.</p>
 ¯ ¯ ¯ ¯ ¯ ¯</p>
 Pages
 <p><b>Crystallized4</b> is my kinlist, and<br>
-<b>Fractalized8</b> is a little about me, with GL and OI manga<br>
-and manhwa recommendations inside.</p>
+<b>Fractalized8</b> is a little about me, with<br>
+GL and OI recommendations inside.</p>
+
+<p><a href="https://flowergame.net/view/1143944">
+  <img alt="Visit my Cornflower in Flowergame!" src="https://img.flowergame.net/1143944.png" />
+</a></p>
 
 <p>. ⊹ ❅ ⊹ .</p>
 
 <img alt="" src="https://64.media.tumblr.com/55d3e01d673c5e902f9dda9b17016a0e/tumblr_prq8g0HiNF1xzybrpo6_100.gifv" />
 <img alt="" src="https://64.media.tumblr.com/5bda3f5cd2a20009ddd3a7173fcf3b61/tumblr_prq8g0HiNF1xzybrpo8_100.png" />
 <img alt="" src="https://64.media.tumblr.com/b92886d922d1631e6195a3825fadcc60/tumblr_prq8g0HiNF1xzybrpo5_100.png" />
-
-<br><br>
-
+<br>
+<img alt="" src="https://64.media.tumblr.com/9741aead9f76506a8869a9ac1f23683e/tumblr_psqswlPFKb1xzybrpo2_100.png" />
+<img alt="" src="https://64.media.tumblr.com/30ba9e593eb007aeef52d3f20c10e17a/tumblr_prgksvvLB81xzybrpo1_100.png" />
+<br>
 <img alt="" src="https://64.media.tumblr.com/884ad65cabd98b2d38c8d8ded0b3b3d1/tumblr_prgksvvLB81xzybrpo3_100.png" />
 <img alt="" src="https://64.media.tumblr.com/77eb02abfa86921f580015af630d86f1/tumblr_prq8g0HiNF1xzybrpo4_100.png" />
 <img alt="" src="https://64.media.tumblr.com/f888c616d7c24473b22b5c2902b09e9c/tumblr_psood4cdAm1xzybrpo7_100.png" />
 
 <p>˙⊹ ❅ ⊹      ˙</p>
 
-<a href="https://flowergame.net/view/1143944">
-  <img alt="Visit my Cornflower in Flowergame!" src="https://img.flowergame.net/1143944.png" />
-</a>
-
-<img alt="" height="207" width="207" src="https://i.imgur.com/vdXinms.png" />
-
+<p><img alt="" height="207" width="207" src="https://i.imgur.com/vdXinms.png" /><br>
 <a href="https://flowergame.net/view/1149722">
   <img alt="Visit my Kris plant in Flowergame!" height="50" width="50" src="https://img.flowergame.net/1149722.png" />
-</a>
-
+</a></p>
+<br>
+<br>
 <img alt="" height="19" width="111" src="https://i.imgur.com/3344YKi.gif" />
-
 </div>
