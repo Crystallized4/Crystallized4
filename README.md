@@ -1,10 +1,10 @@
 <div align="center">
-  <p><img alt="" height="300" width="300" src="https://i.imgur.com/yEP4a8m.gif" /></p>
-<a href="https://flowergame.net/view/1144931">
+  <p></p><a href="https://flowergame.net/view/1144931">
   <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" />
-</a>
+</a></p>
+  <p><img alt="" height="300" width="300" src="https://i.imgur.com/yEP4a8m.gif" /></p>
+    <img alt="" height="64" width="57" src="https://i.imgur.com/RotTrfQ.png" />
 <p>❅ Hush . 21 ❅<br>
-  <img alt="" height="64" width="57" src="https://i.imgur.com/RotTrfQ.png" /><br>
 Hello. Before you interact,<br>
 please know...</p>
 
