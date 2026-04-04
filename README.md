@@ -58,6 +58,7 @@ me a little happy.</p>
 ✨<img alt="" height="32" width="58" src="https://i.imgur.com/zsD0bH7.gif" />✨</p>
 
 <p>
+    </a><span>　</span>
   💜
   <a href="https://flowergame.net/view/1145268">
     <img alt="Visit my Marigold in Flowergame!" src="https://img.flowergame.net/1145268.png" /></a>
