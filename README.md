@@ -95,7 +95,7 @@ GL and OI recommendations inside.</p>
 <img alt="" src="https://64.media.tumblr.com/f888c616d7c24473b22b5c2902b09e9c/tumblr_psood4cdAm1xzybrpo7_100.png" />
 
 <p>˙⊹ ❅ ⊹      ˙</p>
-
+<br>
 <p><img alt="" height="207" width="207" src="https://i.imgur.com/vdXinms.png" /><br>
 <a href="https://flowergame.net/view/1149722">
   <img alt="Visit my Kris plant in Flowergame!" height="50" width="50" src="https://img.flowergame.net/1149722.png" />
