@@ -82,6 +82,7 @@ me a little happy.</p>
 <br>
 $\color{#A38AFF}{\text{¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯}}$
 </p>
+<br>
   <p><a href="https://flowergame.net/view/1143944">
   <img alt="Visit my Cornflower in Flowergame!" src="https://img.flowergame.net/1143944.png" />
 </a></p>
