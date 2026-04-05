@@ -2,8 +2,6 @@
   <p></p><a href="https://flowergame.net/view/1144931">
   <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" />
 </a></p>
-  <p> $\color{#C2DEFF}{\textit{Hello Earth ...}}$ <br>
-    $\color{#C2DEFF}{\textit{Hello Earth.}}$ </p>
   <p><img alt="" height="300" width="300" src="https://i.imgur.com/yEP4a8m.gif" /></p>
     <img alt="" height="64" width="57" src="https://i.imgur.com/RotTrfQ.png" />
 
