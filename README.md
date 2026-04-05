@@ -2,10 +2,12 @@
   <p></p><a href="https://flowergame.net/view/1144931">
   <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" />
 </a></p>
+  <p> $\color{#C2DEFF}{\textit{Hello Earth ...}}$ <br>
+    $\color{#C2DEFF}{\textit{Hello Earth.}}$ </p>
   <p><img alt="" height="300" width="300" src="https://i.imgur.com/yEP4a8m.gif" /></p>
     <img alt="" height="64" width="57" src="https://i.imgur.com/RotTrfQ.png" />
 
-$\color{#C2DEFF}{\text{❅ Hush . 21 ❅}}$
+$\color{#C2DEFF}{\text{❅ Hush}}$ . $\color{#C2DEFF}{\text{21 ❅}}$
 <br>
 <p>Hello. Before you interact,<br>
 please know...</p>
