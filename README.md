@@ -6,7 +6,7 @@
     <img alt="" height="64" width="57" src="https://i.imgur.com/RotTrfQ.png" />
 <p>
 $\color{#C2DEFF}{\text{❅ Hush}}$ . $\color{#C2DEFF}{\text{21 ❅}}$<br>
-<img alt=""src="https://i.imgur.com/u1I1M6K.png" /> Hello. Before you interact, <img alt=""src="https://i.imgur.com/bl4pqfm.png" /><br>
+<img alt=""src="https://i.imgur.com/u1I1M6K.png" /> Hello. Before you interact, <img alt=""src="https://imgur.com/GDDdYM4.png"/><br>
 please know...
 </p>
   
