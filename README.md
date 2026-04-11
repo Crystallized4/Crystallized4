@@ -32,14 +32,13 @@ that people will interact with me...</p>
 <p>$\color{#C2DEFF}{\text{❅}}$ ...But kisses do make $\color{#C2DEFF}{\text{❅}}$<br>
 me a little happy.</p>
 
-<img alt="" src="https://imgur.com/yrcrcbj.png" /><br>
+<p><img alt="" src="https://imgur.com/yrcrcbj.png" /><br>
 <a href="https://flowergame.net/view/1144931">
   <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" /></a>
 <img alt="" height="120" width="120" src="https://i.imgur.com/XQ5lRmb.gif" />
 <a href="https://flowergame.net/view/1144931">
-  <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" /></a>
-
-<p> $\color{#FFF799}{\text{🌈🌿It's spring!🌼☀️}}$ <br>
+  <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" /></a><br>
+$\color{#FFF799}{\text{🌈🌿It's spring!🌼☀️}}$ <br>
   $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$<br>
 <a href="https://flowergame.net/view/1151946">
   <img src="https://img.flowergame.net/1151946.png" alt="Visit my Easter Egg in Flowergame!" /></a>
