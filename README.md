@@ -88,7 +88,7 @@ $\color{#7A86B0}{\text{.}}$<br>
 <img alt="" src="https://64.media.tumblr.com/30ba9e593eb007aeef52d3f20c10e17a/tumblr_prgksvvLB81xzybrpo1_100.png" />
 <br>
 <img alt="" src="https://64.media.tumblr.com/884ad65cabd98b2d38c8d8ded0b3b3d1/tumblr_prgksvvLB81xzybrpo3_100.png" />
-<img alt="" src="https://64.media.tumblr.com/77eb02abfa86921f580015af630d86f1/tumblr_prq8g0HiNF1xzybrpo4_100.png" />
+<img alt="" src="https://i.imgur.com/fLX682o.png" />
 <img alt="" src="https://64.media.tumblr.com/f888c616d7c24473b22b5c2902b09e9c/tumblr_psood4cdAm1xzybrpo7_100.png" />
 <br>
 $\color{#7A86B0}{\text{˙}}$
