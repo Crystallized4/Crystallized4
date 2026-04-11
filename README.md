@@ -67,7 +67,7 @@ me a little happy.</p>
 <a href="https://flowergame.net/view/1149342"><img src="https://img.flowergame.net/1149342.png" alt="Visit my Heart of Valentine in Flowergame!" /></a>
   <a href="https://flowergame.net/view/1151943">
   <img src="https://img.flowergame.net/1151943.png" alt="Visit my Easter Egg in Flowergame!" /></a><br>
-🌷🌻 $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ 🌻🌷<br>
+🌷🌻 $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ 🌻🌷<br>
 
 </p>
   <p><a href="https://flowergame.net/view/1143944">
