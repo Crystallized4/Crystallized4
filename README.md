@@ -4,11 +4,12 @@
 </a></p>
   <p><img alt="" height="300" width="300" src="https://i.imgur.com/yEP4a8m.gif" /></p>
     <img alt="" height="64" width="57" src="https://i.imgur.com/RotTrfQ.png" />
-
-$\color{#C2DEFF}{\text{❅ Hush}}$ . $\color{#C2DEFF}{\text{21 ❅}}$
-<p><img alt=""src="https://i.imgur.com/u1I1M6K.png" /> Hello. Before you interact, <img alt=""src="https://i.imgur.com/bl4pqfm.png" /><br>
-please know... </p>
-
+<p>
+$\color{#C2DEFF}{\text{❅ Hush}}$ . $\color{#C2DEFF}{\text{21 ❅}}$<br>
+<img alt=""src="https://i.imgur.com/u1I1M6K.png" /> Hello. Before you interact, <img alt=""src="https://i.imgur.com/bl4pqfm.png" /><br>
+please know...
+</p>
+  
 $\color{#C2DEFF}{\text{.}}$
 ⊹
 $\color{#C2DEFF}{\text{❅}}$
