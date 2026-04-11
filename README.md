@@ -1,6 +1,4 @@
 <div align="center">
-  <p></p><a href="https://flowergame.net/view/1144931">
-  <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" />
 </a></p>
   <p><img alt="" height="300" width="300" src="https://i.imgur.com/yEP4a8m.gif" /></p>
     <img alt="" height="64" width="57" src="https://i.imgur.com/RotTrfQ.png" />
@@ -34,11 +32,11 @@ that people will interact with me...</p>
 <p>$\color{#C2DEFF}{\text{❅}}$ ...But kisses do make $\color{#C2DEFF}{\text{❅}}$<br>
 me a little happy.</p>
 
-<a href="https://flowergame.net/view/1143997">
-  <img alt="Visit my Saintpaulia in Flowergame!" src="https://img.flowergame.net/1143997.png" /></a>
-<img alt="" height="114" width="114" src="https://i.imgur.com/O378yj8.gif" />
-<a href="https://flowergame.net/view/1143997">
-  <img alt="Visit my Saintpaulia in Flowergame!" src="https://img.flowergame.net/1143997.png" /></a>
+<a href="https://flowergame.net/view/1144931">
+  <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" /></a>
+<img alt="" height="120" width="120" src="https://i.imgur.com/XQ5lRmb.gif" />
+<a href="https://flowergame.net/view/1144931">
+  <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" /></a>
 
 <p> $\color{#FFF799}{\text{🌈🌿It's spring!🌼☀️}}$ <br>
   $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$<br>
