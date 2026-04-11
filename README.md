@@ -32,6 +32,7 @@ that people will interact with me...</p>
 <p>$\color{#C2DEFF}{\text{❅}}$ ...But kisses do make $\color{#C2DEFF}{\text{❅}}$<br>
 me a little happy.</p>
 
+<img alt="" src="https://imgur.com/yrcrcbj.png" /><br>
 <a href="https://flowergame.net/view/1144931">
   <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" /></a>
 <img alt="" height="120" width="120" src="https://i.imgur.com/XQ5lRmb.gif" />
