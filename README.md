@@ -63,11 +63,13 @@ $\color{#FFF799}{\text{🌈🌿It's spring!🌼☀️}}$ <br>
   <img alt="Visit my Rose in Flowergame!" src="https://img.flowergame.net/1148550.png" /></a>
 <a href="https://flowergame.net/view/1147033">
   <img alt="Visit my Lucky clover in Flowergame!" src="https://img.flowergame.net/1147033.png" /></a>
-  <a href="https://flowergame.net/view/1151931"><br>
-  <img src="https://img.flowergame.net/1151931.png" alt="Visit my Easter Egg in Flowergame!" /></a>
+    <a href="https://flowergame.net/view/1152297">
+      <br>
+    <img src="https://img.flowergame.net/1152297.png" alt="Visit my Easter Egg in Flowergame!" /></a>
 <a href="https://flowergame.net/view/1149342"><img src="https://img.flowergame.net/1149342.png" alt="Visit my Heart of Valentine in Flowergame!" /></a>
-  <a href="https://flowergame.net/view/1152297">
-    <img src="https://img.flowergame.net/1152297.png" alt="Visit my Easter Egg in Flowergame!" /></a><br>
+  <a href="https://flowergame.net/view/1151931">
+  <img src="https://img.flowergame.net/1151931.png" alt="Visit my Easter Egg in Flowergame!" /></a>
+<br>
 🌷🌻 $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ 🌻🌷<br>
 
 </p>
