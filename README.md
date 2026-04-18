@@ -1,7 +1,10 @@
 <div align="center">
 </a></p>
-  <p><img alt="" height="300" width="300" src="https://i.imgur.com/yEP4a8m.gif" /></p>
-    <img alt="" height="64" width="57" src="https://i.imgur.com/RotTrfQ.png" />
+  <p><img alt="" height="200" width="400" src="https://i.imgur.com/yEP4a8m.gif" /></p>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/PETMtEQ.png">
+  <img src="https://i.imgur.com/RotTrfQ.png" height="64" width="57">
+</picture>
 <p>
 $\color{#C2DEFF}{\text{❅ Hush}}$ . $\color{#C2DEFF}{\text{21 ❅}}$<br>
 <img alt=""src="https://i.imgur.com/u1I1M6K.png" /> Hello. Before you interact, <img alt=""src="https://imgur.com/GDDdYM4.png"/><br>
@@ -35,7 +38,10 @@ me a little happy.</p>
 <p><img alt="" src="https://imgur.com/yrcrcbj.png" /><br>
 <a href="https://flowergame.net/view/1144931">
   <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" /></a>
-<img alt="" height="120" width="120" src="https://i.imgur.com/XQ5lRmb.gif" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/cCj7w4I.gif">
+  <img src="https://i.imgur.com/XQ5lRmb.gif" width="120">
+</picture>
 <a href="https://flowergame.net/view/1144931">
   <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" /></a><br>
 $\color{#FFF799}{\text{🌈🌿It's spring!🌼☀️}}$ <br>
@@ -96,7 +102,10 @@ $\color{#7A86B0}{\text{❅}}$
 $\color{#C2C2C4}{\text{⊹      }}$
 $\color{#7A86B0}{\text{˙}}$<br>
 <br>
-<p><img alt="" height="207" width="207" src="https://i.imgur.com/vdXinms.png" /><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/FbsBMUc.png">
+  <img src="https://i.imgur.com/vdXinms.png" width="207">
+</picture><br>
 <a href="https://flowergame.net/view/1149722">
   <img alt="Visit my Kris plant in Flowergame!" height="50" width="50" src="https://img.flowergame.net/1149722.png" />
 </a></p>
