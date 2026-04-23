@@ -50,8 +50,8 @@ $\color{#FFF799}{\text{🌈🌿It's spring!🌼☀️}}$ <br>
   <img src="https://img.flowergame.net/1152295.png" alt="Visit my Easter Egg in Flowergame!" /></a>
 <a href="https://flowergame.net/view/1145268">
   <img alt="Visit my Marigold in Flowergame!" src="https://img.flowergame.net/1145268.png" /></a>
-<a href="https://flowergame.net/view/1151947">
-  <img src="https://img.flowergame.net/1151947.png" alt="Visit my Easter Egg in Flowergame!" /></a>
+<a href="https://flowergame.net/view/1152592">
+  <img src="https://img.flowergame.net/1152592.png" alt="Visit my Easter Egg in Flowergame!" /></a>
 
 <br>
 
@@ -65,7 +65,7 @@ $\color{#FFF799}{\text{🌈🌿It's spring!🌼☀️}}$ <br>
   <img alt="Visit my Lucky clover in Flowergame!" src="https://img.flowergame.net/1147033.png" /></a>
     <a href="https://flowergame.net/view/1152297">
       <br>
-    <img src="https://img.flowergame.net/1152297.png" alt="Visit my Easter Egg in Flowergame!" /></a>
+  <a href="https://flowergame.net/view/1152597"><img src="https://img.flowergame.net/1152597.png" alt="Visit my Easter Egg in Flowergame!" /></a>
 <a href="https://flowergame.net/view/1149342"><img src="https://img.flowergame.net/1149342.png" alt="Visit my Heart of Valentine in Flowergame!" /></a>
   <a href="https://flowergame.net/view/1151931">
   <img src="https://img.flowergame.net/1151931.png" alt="Visit my Easter Egg in Flowergame!" /></a>
