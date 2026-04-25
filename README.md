@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/RotTrfQ.png" height="64" width="57">
 </picture>
 <p>
-$\color{#C2DEFF}{\text{❅ Hush/Orchid}}$ . $\color{#C2DEFF}{\text{21 ❅}}$<br>
+$\color{#C2DEFF}{\text{❅ Hush}}$ . $\color{#C2DEFF}{\text{21 ❅}}$<br>
 <img alt=""src="https://i.imgur.com/u1I1M6K.png" /> Hello. Before you interact, <img alt=""src="https://imgur.com/GDDdYM4.png"/><br>
 please know...
 </p>
