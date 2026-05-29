@@ -60,13 +60,12 @@ $\color{#FFF799}{\text{🌈🌿It's spring!🌼☀️}}$ <br>
 <a href="https://flowergame.net/view/1149956">
   <img alt="Visit my Rose in Flowergame!" src="https://img.flowergame.net/1149956.png" /></a>
   <a href="https://flowergame.net/view/1148550">
-  <img alt="Visit my Rose in Flowergame!" src="https://img.flowergame.net/1148550.png" /></a>
-<a href="https://flowergame.net/view/1147033">
+<a href="https://flowergame.net/view/1153426"><img src="https://img.flowergame.net/1153426.png" alt="Visit my Rose in Flowergame!" /></a>
   <img alt="Visit my Lucky clover in Flowergame!" src="https://img.flowergame.net/1147033.png" /></a>
     <a href="https://flowergame.net/view/1152297">
       <br>
   <a href="https://flowergame.net/view/1152597"><img src="https://img.flowergame.net/1152597.png" alt="Visit my Easter Egg in Flowergame!" /></a>
-<a href="https://flowergame.net/view/1149342"><img src="https://img.flowergame.net/1149342.png" alt="Visit my Heart of Valentine in Flowergame!" /></a>
+<a href="https://flowergame.net/view/1154147"><img src="https://img.flowergame.net/1154147.png" alt="Visit my Wild strawberry in Flowergame!" /></a>
   <a href="https://flowergame.net/view/1151931">
   <img src="https://img.flowergame.net/1151931.png" alt="Visit my Easter Egg in Flowergame!" /></a>
 <br>
