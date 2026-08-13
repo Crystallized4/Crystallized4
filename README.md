@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/RotTrfQ.png" height="64" width="57">
 </picture>
 <p>
-$\color{#C2DEFF}{\text{❅ Hush}}$ . $\color{#C2DEFF}{\text{21 ❅}}$<br>
+$\color{#C2DEFF}{\text{❅ Hush}}$ . $\color{#C2DEFF}{\text{22 ❅}}$<br>
 <img alt=""src="https://i.imgur.com/u1I1M6K.png" /> Hello. Before you interact, <img alt=""src="https://imgur.com/GDDdYM4.png"/><br>
 please know...
 </p>
@@ -44,7 +44,7 @@ me a little happy.</p>
 </picture>
 <a href="https://flowergame.net/view/1144931">
   <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" /></a><br>
-$\color{#FFF799}{\text{🌈🌿It's spring!🌼☀️}}$ <br>
+$\color{#FFF799}{\text{🌈🌿It's summer!🌼☀️}}$ <br>
   $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$<br>
 <a href="https://flowergame.net/view/1152295">
   <img src="https://img.flowergame.net/1152295.png" alt="Visit my Easter Egg in Flowergame!" /></a>
