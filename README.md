@@ -7,7 +7,7 @@
 </picture>
 <p>
 $\color{#C2DEFF}{\text{❅ Hush}}$ . $\color{#C2DEFF}{\text{22 ❅}}$<br>
-<img alt=""src="https://i.imgur.com/u1I1M6K.png" /> Hello. Before you interact, <img alt=""src="https://imgur.com/GDDdYM4.png"/><br>
+Hello. Before you interact,<br>
 please know...
 </p>
   
