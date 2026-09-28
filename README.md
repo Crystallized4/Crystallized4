@@ -39,7 +39,7 @@ me a little happy.</p>
 <a href="https://flowergame.net/view/1145268"><img src="https://img.flowergame.net/1145268.png" alt="Visit my Marigold in Flowergame!" /></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/tZr1dKc.gif">
-  <img src="https://i.imgur.com/tZr1dKc.gif" width="120">
+  <img src="https://i.imgur.com/tZr1dKc.gif" width="115">
 </picture>
  <a href="https://flowergame.net/view/1145268"><img src="https://img.flowergame.net/1145268.png" alt="Visit my Marigold in Flowergame!" /></a><br>
 $\color{#FFDE37}{\text{🍂It's autumn!🍂}}$ <br>
