@@ -56,7 +56,7 @@ $\color{#FFDE37}{\text{🍂It's autumn!🍂}}$ <br>
 <a href="https://flowergame.net/view/1143819"><img src="https://img.flowergame.net/1143819.png" alt="Visit my Pumpkin in Flowergame!" /></a>
 <a href="https://flowergame.net/view/1151462"><img src="https://img.flowergame.net/1151462.png" alt="Visit my Rose in Flowergame!" /></a>
 <br>
-🎃 $\color{#FFA344}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ 🎃<br>
+🍂🎃 $\color{#FFA344}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ 🎃🍂<br>
 </p>
   <p><a href="https://flowergame.net/view/1143944">
   <img alt="Visit my Cornflower in Flowergame!" src="https://img.flowergame.net/1143944.png" />
