@@ -35,42 +35,28 @@ that people will interact with me...</p>
 <p>$\color{#C2DEFF}{\text{❅}}$ ...But kisses do make $\color{#C2DEFF}{\text{❅}}$<br>
 me a little happy.</p>
 
-<p><img alt="" src="https://imgur.com/yrcrcbj.png" /><br>
-<a href="https://flowergame.net/view/1144931">
-  <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" /></a>
+<p><img alt="" src="https://imgur.com/t5KqpCx.png" width="180"/><br>
+<a href="https://flowergame.net/view/1145268"><img src="https://img.flowergame.net/1145268.png" alt="Visit my Marigold in Flowergame!" /></a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/cCj7w4I.gif">
-  <img src="https://i.imgur.com/XQ5lRmb.gif" width="120">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/tZr1dKc.gif">
+  <img src="https://i.imgur.com/tZr1dKc.gif" width="120">
 </picture>
-<a href="https://flowergame.net/view/1144931">
-  <img alt="Visit my Grape hyacinth in Flowergame!" src="https://img.flowergame.net/1144931.png" /></a><br>
-$\color{#FFF799}{\text{🌈🌿It's summer!🌼☀️}}$ <br>
-  $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$<br>
-<a href="https://flowergame.net/view/1152295">
-  <img src="https://img.flowergame.net/1152295.png" alt="Visit my Easter Egg in Flowergame!" /></a>
-<a href="https://flowergame.net/view/1145268">
-  <img alt="Visit my Marigold in Flowergame!" src="https://img.flowergame.net/1145268.png" /></a>
-<a href="https://flowergame.net/view/1152592">
-  <img src="https://img.flowergame.net/1152592.png" alt="Visit my Easter Egg in Flowergame!" /></a>
-
+ <a href="https://flowergame.net/view/1145268"><img src="https://img.flowergame.net/1145268.png" alt="Visit my Marigold in Flowergame!" /></a><br>
+$\color{#FFDE37}{\text{🍂It's autumn!🍂}}$ <br>
+  $\color{#FFDE37}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$<br>
+<a href="https://flowergame.net/view/1151462"><img src="https://img.flowergame.net/1151462.png" alt="Visit my Rose in Flowergame!" /></a>
+<a href="https://flowergame.net/view/1143816"><img src="https://img.flowergame.net/1143816.png" alt="Visit my Pumpkin in Flowergame!" /></a>
+<a href="https://flowergame.net/view/1150579"><img src="https://img.flowergame.net/1150579.png" alt="Visit my Rose in Flowergame!" /></a>
 <br>
-
-<a href="https://flowergame.net/view/1147033">
-  <img alt="Visit my Lucky clover in Flowergame!" src="https://img.flowergame.net/1147033.png" /></a>
-<a href="https://flowergame.net/view/1149956">
-  <img alt="Visit my Rose in Flowergame!" src="https://img.flowergame.net/1149956.png" /></a>
-  <a href="https://flowergame.net/view/1148550">
-<a href="https://flowergame.net/view/1153426"><img src="https://img.flowergame.net/1153426.png" alt="Visit my Rose in Flowergame!" /></a>
-  <img alt="Visit my Lucky clover in Flowergame!" src="https://img.flowergame.net/1147033.png" /></a>
-    <a href="https://flowergame.net/view/1152297">
-      <br>
-  <a href="https://flowergame.net/view/1152597"><img src="https://img.flowergame.net/1152597.png" alt="Visit my Easter Egg in Flowergame!" /></a>
-<a href="https://flowergame.net/view/1154147"><img src="https://img.flowergame.net/1154147.png" alt="Visit my Wild strawberry in Flowergame!" /></a>
-  <a href="https://flowergame.net/view/1151931">
-  <img src="https://img.flowergame.net/1151931.png" alt="Visit my Easter Egg in Flowergame!" /></a>
+<a href="https://flowergame.net/view/1144063"><img src="https://img.flowergame.net/1144063.png" alt="Visit my Pumpkin in Flowergame!" /></a>
+<a href="https://flowergame.net/view/1144478"><img src="https://img.flowergame.net/1144478.png" alt="Visit my Jack-o&#039;lantern in Flowergame!" /></a>
+<a href="https://flowergame.net/view/1143512"><img src="https://img.flowergame.net/1143512.png" alt="Visit my Pumpkin in Flowergame!" /></a>
 <br>
-🌷🌻 $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ $\color{#FFF799}{\text{¯¯}}$ $\color{#FFAFEE}{\text{¯¯}}$ $\color{#C5FF99}{\text{¯¯}}$ 🌻🌷<br>
-
+<a href="https://flowergame.net/view/1150579"><img src="https://img.flowergame.net/1150579.png" alt="Visit my Rose in Flowergame!" /></a>
+<a href="https://flowergame.net/view/1143819"><img src="https://img.flowergame.net/1143819.png" alt="Visit my Pumpkin in Flowergame!" /></a>
+<a href="https://flowergame.net/view/1151462"><img src="https://img.flowergame.net/1151462.png" alt="Visit my Rose in Flowergame!" /></a>
+<br>
+🎃 $\color{#FFA344}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ 🎃<br>
 </p>
   <p><a href="https://flowergame.net/view/1143944">
   <img alt="Visit my Cornflower in Flowergame!" src="https://img.flowergame.net/1143944.png" />
