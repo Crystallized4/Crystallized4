@@ -35,7 +35,7 @@ that people will interact with me...</p>
 <p>$\color{#C2DEFF}{\text{❅}}$ ...But kisses do make $\color{#C2DEFF}{\text{❅}}$<br>
 me a little happy.</p>
 
-<p><img alt="" src="https://imgur.com/t5KqpCx.png" width="180"/><br>
+<p><img alt="" src="https://imgur.com/t5KqpCx.png" width="150"/><br>
 <a href="https://flowergame.net/view/1145268"><img src="https://img.flowergame.net/1145268.png" alt="Visit my Marigold in Flowergame!" /></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/tZr1dKc.gif">
