@@ -92,10 +92,7 @@ $\color{#7A86B0}{\text{˙}}$<br>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/FbsBMUc.png">
   <img src="https://i.imgur.com/vdXinms.png" width="207">
 </picture><br>
-<a href="https://flowergame.net/view/1159657"><img src="https://img.flowergame.net/1159657.png" alt="Visit my Living stones in Flowergame!" /></a>
-<a href="https://flowergame.net/view/1149722">
-  <img alt="Visit my Kris plant in Flowergame!" height="50" width="50" src="https://img.flowergame.net/1149722.png" /></a>
-<a href="https://flowergame.net/view/1159657"><img src="https://img.flowergame.net/1159657.png" alt="Visit my Living stones in Flowergame!" /></a></p>
+<a href="https://flowergame.net/view/1159657"><img src="https://img.flowergame.net/1159657.png" alt="Visit my Living stones in Flowergame!" /></a>‎<a href="https://flowergame.net/view/1149722"><img alt="Visit my Kris plant in Flowergame!" height="50" width="50" src="https://img.flowergame.net/1149722.png" /></a><a href="https://flowergame.net/view/1159657"><img src="https://img.flowergame.net/1159657.png" alt="Visit my Living stones in Flowergame!" /></a>‎ </p>
 <br>
 <br>
 <img alt="" height="19" width="111" src="https://i.imgur.com/3344YKi.gif" />
