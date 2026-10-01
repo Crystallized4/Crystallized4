@@ -3,7 +3,7 @@
   <p><img alt="" height="200" width="400" src="https://i.imgur.com/yEP4a8m.gif" /></p>
   <a href="https://flowergame.net/view/1158926"><img src="https://img.flowergame.net/1158926.png" alt="Visit my Rose in Flowergame!" /></a>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/PETMtEQ.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/YybYCjF.png">
   <img src="https://i.imgur.com/RotTrfQ.png" height="64" width="57">
 </picture>
     <a href="https://flowergame.net/view/1158926"><img src="https://img.flowergame.net/1158926.png" alt="Visit my Rose in Flowergame!" /></a>
