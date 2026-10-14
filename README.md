@@ -47,7 +47,7 @@ me a little happy.</p>
  <a href="https://flowergame.net/view/1145268"><img src="https://img.flowergame.net/1145268.png" alt="Visit my Marigold in Flowergame!" /></a><br>
 $\color{#FFDE37}{\text{🍂It's autumn!🍂}}$ <br>
   $\color{#FFDE37}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$<br>
-<a href="https://flowergame.net/view/1151462"><img src="https://img.flowergame.net/1151462.png" alt="Visit my Rose in Flowergame!" /></a>
+<a href="https://flowergame.net/view/1145268"><img src="https://img.flowergame.net/1145268.png" alt="Visit my Marigold in Flowergame!" /></a>
 <a href="https://flowergame.net/view/1143816"><img src="https://img.flowergame.net/1143816.png" alt="Visit my Pumpkin in Flowergame!" /></a>
 <a href="https://flowergame.net/view/1159560"><img src="https://img.flowergame.net/1159560.png" alt="Visit my Flaming Katy in Flowergame!" /></a>
 <br>
@@ -57,7 +57,7 @@ $\color{#FFDE37}{\text{🍂It's autumn!🍂}}$ <br>
 <br>
 <a href="https://flowergame.net/view/1159560"><img src="https://img.flowergame.net/1159560.png" alt="Visit my Flaming Katy in Flowergame!" /></a>
 <a href="https://flowergame.net/view/1143819"><img src="https://img.flowergame.net/1143819.png" alt="Visit my Pumpkin in Flowergame!" /></a>
-<a href="https://flowergame.net/view/1151462"><img src="https://img.flowergame.net/1151462.png" alt="Visit my Rose in Flowergame!" /></a>
+<a href="https://flowergame.net/view/1145268"><img src="https://img.flowergame.net/1145268.png" alt="Visit my Marigold in Flowergame!" /></a>
 <br>
 🍂🎃 $\color{#FFA344}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ 🎃🍂<br>
 </p>
