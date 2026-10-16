@@ -44,7 +44,7 @@ me a little happy.</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/tZr1dKc.gif">
   <img src="https://i.imgur.com/tZr1dKc.gif" width="115">
-</picture><a href="https://flowergame.net/view/1156101"><img src="https://img.flowergame.net/1156101.png" alt="Visit my Rose in Flowergame!" /></a><br>
+</picture>ㅤㅤㅤ<br>
 $\color{#FFDE37}{\text{🍂It's autumn!🍂}}$ <br>
   $\color{#FFDE37}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$ $\color{#F03427}{\text{¯¯}}$ $\color{#FFA344}{\text{¯¯}}$ $\color{#FFDE37}{\text{¯¯}}$<br>
 <a href="https://flowergame.net/view/1145268"><img src="https://img.flowergame.net/1145268.png" alt="Visit my Marigold in Flowergame!" /></a>
